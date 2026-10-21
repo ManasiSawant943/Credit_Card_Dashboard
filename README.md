@@ -1,11 +1,13 @@
 💳 Credit Card Transaction & Customer Analytics Dashboard
 
 📌 Project Overview
+
 The Credit Card Transaction & Customer Analytics Dashboard is an end-to-end data analytics project built using MySQL and Microsoft Power BI to analyze credit card transactions, revenue performance, and customer demographics.
 The project uses SQL to create and manage structured credit card and customer tables, followed by Power BI dashboards to visualize key performance indicators (KPIs), quarterly trends, spending patterns, card category performance, and customer characteristics.
 The objective is to convert raw credit card and customer data into meaningful business insights that support data-driven decision-making, customer analysis, and financial performance monitoring.
 
 🎯 Project Objectives
+
 •	Analyze total revenue, transaction amounts, transaction volumes, and interest earned.
 •	Monitor quarterly revenue and transaction trends.
 •	Compare performance across different credit card categories.
@@ -17,6 +19,7 @@ The objective is to convert raw credit card and customer data into meaningful bu
 
 
 🛠️ Tools & Technologies
+
 Technology	Purpose
 MySQL	Database creation, table creation, and data retrieval
 Microsoft Power BI	Interactive dashboards and data visualization
