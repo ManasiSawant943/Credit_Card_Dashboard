@@ -381,8 +381,11 @@ This project is intended for educational and portfolio purposes.
 •	Check the dataset's licensing and redistribution permissions before sharing it publicly.
 
 👨‍💻 Author
+
 Mansi Sawant
+
 Aspiring Data Analyst | Business Analyst
+
 Skills Demonstrated: MySQL | Power BI | SQL Database Design | Data Visualization | KPI Reporting | Customer Analytics | Business Intelligence
 This project demonstrates practical experience in organizing relational data, creating analytical dashboards, tracking business KPIs, and presenting customer and transaction insights.
 
